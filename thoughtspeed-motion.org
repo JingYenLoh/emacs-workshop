@@ -3,7 +3,7 @@ With a more usable Emacs configuration, we'll begin navigating around Emacs, ins
 
 I recommend printing [[https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf][this refcard]], and refer to it when necessary.
 
-The first rule to moving around quickly is to *never leave the keyboard*. This concept is pervalent across all efficient text editors, be it Vim or Emacs. In Emacs, key combinations are the gateway to text-editing nirvana.
+The first rule to moving around quickly is to *never leave the keyboard*. This concept is prevalent across all efficient text editors, be it Vim or Emacs. In Emacs, key combinations are the gateway to text-editing nirvana.
 
 ** Moving Across Lines
 The most common line-movement operations are listed below.
