@@ -56,7 +56,7 @@ All these UI cruft take up precious screen estate, and should be removed.
 #+END_SRC
 
 *** Use-package
-[[https://github.com/jwiegley/use-package][use-package]] is a macro which allows you to isolate package configuration in an organized and performant fashion. It is written by John Wiegley, the current Emacs maintainer. Before you move on, I recommend briefly browsing through the [[https://github.com/jwiegley/use-package][REAME]], to familiarize yourself with the macro syntax.
+[[https://github.com/jwiegley/use-package][use-package]] is a macro which allows you to isolate package configuration in an organized and performant fashion. It is written by John Wiegley, the current Emacs maintainer. Before you move on, I recommend briefly browsing through the [[https://github.com/jwiegley/use-package][README]], to familiarize yourself with the macro syntax.
 
 #+BEGIN_SRC emacs-lisp
 (unless (package-installed-p 'use-package)
